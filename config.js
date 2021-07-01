@@ -1,19 +1,14 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Dâu iu ới ời 🍓!',
+    introDesc: `Em muon hon doi moi anh `,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    title: 'Là một gã thợ săn, em có thể săn sóc anh cả đời ❤ ',
+    desc: 'Anh à ! Em cực thích màu blue, becase iloveu everyday💓',
+    btnYes: 'Vẫn cứ là iu emmm <33',
+    btnNo: 'Không, bây bi à :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu em <3',
+    btnReply: 'Gửi cho emmm <3',
+    reply: 'Yêu thì yêu mà không yêu thì vẫn yêu béee <33333333',
+    mess: 'Em biết mà 🥰. Yêu chim non nhiều nhiều 🐣 ',
+    messDesc: 'Nhớ anh quá nè mau đến cho em ôm anh điiii.',
+    btnAccept: 'Okiiiii lun nà <3333',   messLink:tt/www.ebook.com/prof100028013/m.me/100028013123511. VD: https://m.me/nam.node
